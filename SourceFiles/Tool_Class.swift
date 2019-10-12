@@ -8,10 +8,10 @@
 
 import UIKit
 
-func RGBCOLOR(r:CGFloat,g g:CGFloat,b b:CGFloat) -> UIColor {
+public func RGBCOLOR(r:CGFloat,g g:CGFloat,b b:CGFloat) -> UIColor {
     return UIColor(red: (r)/255.0, green: (g)/255.0, blue: (b)/255.0, alpha: 1.0)
 }
 
-class Tool_Class: NSObject {
+public class Tool_Class: NSObject {
 
 }

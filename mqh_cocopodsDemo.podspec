@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   # 库的名称
   spec.name         = "mqh_cocopodsDemo"
   # 版本号
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   #swift的版本
   spec.swift_versions = "5.0"
   # 库的简短介绍，以后search的时候显示的简介
